@@ -12,6 +12,8 @@
 
 - **环境位于：**`\content\AssetsvilleTown\Maps\Demostration`, 双击即可打开。
 
+>特别的，由于Github不方便上传大内存文件，因此将demostration.uasset进行了压缩，需要提前解压
+
 - **车流蓝图类位于：**`\content\Spline_Car\Spline_carFlow`
 
 - **人物蓝图类位于：**`\content\Spline_Car\SplineTools\Spline_ManFlow`
